@@ -58,4 +58,6 @@ streamlit run streamlit_app.py
 - Для работы требуется доступ к интернету (загрузка данных с MOEX)
 
 ## Результат работы программы
-
+![SBER](SBER.jpg)
+![GAZP](GAZP.jpg)
+![LKON](LKON.jpg)
